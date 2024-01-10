@@ -63,8 +63,18 @@ Leveraging IoT for real-time data transmission, we stream live video and audio t
 ### React Native Application
 The mobile app, developed using React Native, acts as an accessible user interface. It alerts users to abnormal activities detected during live streaming.
 
-![React Native App Interface](https://user-images.githubusercontent.com/91920989/186730336-332f195d-568e-404a-92e8-86b714c083a3.jpg)  
-*Figure 4: Mobile Application Interface for Alerts*
+1. **Main Interface**  
+   [![Main Interface](https://user-images.githubusercontent.com/91920989/186730336-332f195d-568e-404a-92e8-86b714c083a3.jpg)](#)  
+   *Figure 3: Mobile Application Main Interface*
+
+2. **Alert Notification Screen**  
+   [![Alert Notification Screen](https://user-images.githubusercontent.com/91920989/186730685-15e16b34-ada3-43de-bdc1-9d88a94711b2.jpg)](#)  
+   *Figure 4: Alert Notification Screen on the Mobile App*
+
+3. **Detailed Alert Information Screen**  
+   [![Detailed Alert Information](https://user-images.githubusercontent.com/91920989/186730909-e2c346ef-8702-4427-b829-f0fa5b4dcbda.jpg)](#)  
+   *Figure 5: Detailed Alert Information Screen in the App*
+
 
 ## Advantages of the Proposed System
 * Enhanced accuracy with advanced algorithms.
